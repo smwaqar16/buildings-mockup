@@ -1,0 +1,113 @@
+body {
+    background-image: url("images/pattern.png");
+}
+
+.texttop{
+        text-align: center;
+    color: white;
+    font-size: 58px;
+}
+figcaption{
+    color: white;
+}
+.listhone{            
+    width: 903px;
+    margin: 50px 184px;
+    background-color: deepskyblue;
+    margin: 24px 174px;
+    height: 45px;
+    list-style: none;
+    display: inline-flex;
+    border-radius: 7px 7px 7px 7px;
+}
+li{
+    margin: 18px 41px;
+    text-indent: 25px;
+}
+.imghome_1{
+    margin: -33px 166px;
+    padding: 10px;
+}
+.color323232{
+   background: #323232;
+    border-radius: 0px 0px 7px 7px;
+    margin: 16px 175px;
+    width: 59pc;
+    height: 673px;
+}
+
+h2{
+    
+    margin: 10px 89px;
+    color: rgb(67, 169, 255);
+}
+
+
+.NewWebsite{
+       margin: 39px -11px;
+    text-align: right;
+}
+
+p{
+       margin: 15px 40px;
+    color: white
+}
+
+
+.Welcome {
+        margin-top: -596px;
+}
+
+.standards{
+    color: white;
+        margin: 10px;
+
+}
+h1{
+    color: white;
+}
+
+
+
+.image1{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+.button{
+        width: 320px;
+    padding: 5px;
+    margin: 20px 10px 0 0;
+    float: left;
+}
+
+.Lorem{
+    margin: 10px;
+}
+
+
+
+
+input{
+   
+    background-color: rgb(56, 152, 241);
+    padding: 14px 10px 9px 12px;
+    border: 1px solid #FFF;
+    border-radius: 13px 13px 13px 12px;
+}
+
+
+
+
+
+
+
+.em{
+        background-color: rgb(67, 169, 255);
+    text-align: center;
+    color: white;
+    margin: 0px 482px;
+}
+
+
