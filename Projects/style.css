@@ -1,6 +1,7 @@
 body {
-    background-image: url("images/pattern.png");
+    background-image: url("../images/pattern.png");
 }
+
 .texttop{
         text-align: center;
     color: white;
@@ -34,8 +35,7 @@ li{
     width: 59pc;
     height: 673px;
 }
-
-h2{ 
+h2{    
     margin: 10px 89px;
     color: rgb(67, 169, 255);
 }
@@ -43,7 +43,6 @@ h2{
        margin: 39px -11px;
     text-align: right;
 }
-
 p{
        margin: 15px 40px;
     color: white
@@ -58,30 +57,16 @@ p{
 h1{
     color: white;
 }
-.image1{
-    margin: 10px;
-    padding: 10px;
-}
 .button{
         width: 320px;
     padding: 5px;
     margin: 20px 10px 0 0;
     float: left;
 }
-
 .Lorem{
     margin: 10px;
 }
-input{ 
-    background-color: rgb(56, 152, 241);
-    padding: 14px 10px 9px 12px;
-    border: 1px solid #FFF;
-    border-radius: 13px 13px 13px 12px;
-}
-
-.em{
-        background-color: rgb(67, 169, 255);
-    text-align: center;
-    color: white;
-    margin: 0px 482px;
+.Bloggs{
+     margin: 10px;
+     font-family: cursive;
 }

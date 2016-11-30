@@ -1,6 +1,7 @@
 body {
-    background-image: url("images/pattern.png");
+    background-image: url("../images/pattern.png");
 }
+
 .texttop{
         text-align: center;
     color: white;
@@ -34,8 +35,7 @@ li{
     width: 59pc;
     height: 673px;
 }
-
-h2{ 
+h2{  
     margin: 10px 89px;
     color: rgb(67, 169, 255);
 }
@@ -43,7 +43,6 @@ h2{
        margin: 39px -11px;
     text-align: right;
 }
-
 p{
        margin: 15px 40px;
     color: white
@@ -51,37 +50,27 @@ p{
 .Welcome {
         margin-top: -596px;
 }
+h1{
+    color: white;
+}
 .standards{
     color: white;
         margin: 10px;
 }
-h1{
-    color: white;
-}
-.image1{
-    margin: 10px;
-    padding: 10px;
-}
-.button{
-        width: 320px;
-    padding: 5px;
-    margin: 20px 10px 0 0;
+input{
+        margin: -24px 240px;
+    width: 19pc;
     float: left;
 }
-
-.Lorem{
+.User{
     margin: 10px;
 }
-input{ 
-    background-color: rgb(56, 152, 241);
-    padding: 14px 10px 9px 12px;
-    border: 1px solid #FFF;
-    border-radius: 13px 13px 13px 12px;
+textarea{
+        margin: -22px 241px;
 }
-
-.em{
-        background-color: rgb(67, 169, 255);
-    text-align: center;
-    color: white;
-    margin: 0px 482px;
+button{
+       margin: 15px 383px;
+    border-radius: 82px;
+    padding: 5px 34px 10px 26px;
+    background-color: rgb(15, 90, 188);
 }
